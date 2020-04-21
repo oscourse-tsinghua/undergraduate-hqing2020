@@ -6,7 +6,7 @@
 
 ---
 **文件夹说明**<br/>
-chisel_cpu--------------为Ubuntu系统下Intelij软件工程，为Chisel CPU的代码源文件<br/>
+chisel_cpu---------------为Ubuntu系统下Intelij软件工程，为Chisel CPU的代码源文件<br/>
 quartus_project---------为windows系统下Quartus（版本18.0及其以上）工程文件，里面为整个实验系统，已替换部分CPU功能。
 
 ---
