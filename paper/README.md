@@ -1,3 +1,4 @@
-# undergraduate-hqing2020
-*毕设题目为：用Chisel语言实现RISC-V处理器*
+# 论文提纲
+# # 基于Chisel语言与RISC-V实现的CPU
+
 
