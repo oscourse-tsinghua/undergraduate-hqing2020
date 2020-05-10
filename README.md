@@ -6,11 +6,14 @@
 
 ---
 **文件夹说明**<br/>
-chisel_cpu---------------为Ubuntu系统下Intelij软件工程，为Chisel CPU的代码源文件<br/>
-quartus_project---------为windows系统下Quartus（版本18.0及其以上）工程文件，里面为整个实验系统，已替换部分CPU功能。
+chisel_cpu---------------为替换过后的verilog代码的CPU<br/>
 
 ---
 **更新日志**<br/>
+2020.4.27<br/>
+删除了文件夹quartus_project<br/>
+更换chisel_cpu为chisel编译后生成的verilog替换后的verilog CPU<br/>
+<br/>
 2020.4.21<br/>
 上传chisel_cpu和quartus_project<br/>
 CPU替换模块为CU、regfile、id、ex、llbitreg<br/>
