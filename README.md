@@ -6,18 +6,7 @@
 
 ---
 **文件夹说明**<br/>
-chisel_cpu--------------------------------为Linux系统中的Chisel代码工程<br/>
 undergraduate-heqing2020-master-----------为替换CPU过后总的quartus工程<br/>
-[论文大纲](paper/README.md)
+
 ---
-**更新日志**<br/>
-2020.6.21<br/>
-添加了undergraduate-heqing2020-master文件夹<br/>
-<br/>
-2020.4.27<br/>
-删除了文件夹quartus_project<br/>
-更换chisel_cpu为chisel编译后生成的verilog替换后的verilog CPU<br/>
-<br/>
-2020.4.21<br/>
-上传chisel_cpu和quartus_project<br/>
-CPU替换模块为CU、regfile、id、ex、llbitreg<br/>
+
